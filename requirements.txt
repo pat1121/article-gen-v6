@@ -1,0 +1,12 @@
+streamlit
+httpx
+qdrant-client
+tantivy
+pillow
+openai
+google-generativeai
+deepseek
+chromadb
+sqlite
+pytest
+pre-commit
