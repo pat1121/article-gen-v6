@@ -1,0 +1,23 @@
+[project]
+name = "content-spark"
+version = "0.1.0"
+description = "Content generation orchestrator"
+authors = []
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "streamlit",
+    "httpx",
+    "qdrant-client",
+    "tantivy",
+    "pillow",
+    "openai",
+    "google-generativeai",
+    "deepseek",
+    "chromadb",
+    "pytest",
+    "pre-commit",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
