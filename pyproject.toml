@@ -3,7 +3,7 @@ name = "content-spark"
 version = "0.1.0"
 description = "Content generation orchestrator"
 authors = []
-requires-python = ">=3.11"
+
 dependencies = [
     "streamlit",
     "httpx",
